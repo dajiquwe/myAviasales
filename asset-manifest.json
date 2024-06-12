@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myAviasales/static/css/main.9ee3aff4.css",
+    "main.js": "/myAviasales/static/js/main.7ff1042b.js",
+    "index.html": "/myAviasales/index.html",
+    "main.9ee3aff4.css.map": "/myAviasales/static/css/main.9ee3aff4.css.map",
+    "main.7ff1042b.js.map": "/myAviasales/static/js/main.7ff1042b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee3aff4.css",
+    "static/js/main.7ff1042b.js"
+  ]
+}
