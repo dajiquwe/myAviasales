@@ -1,1 +1,1 @@
-TodoList App: https://dajiquwe.github.io/myAviasales/
+aviasales: https://dajiquwe.github.io/myAviasales/
